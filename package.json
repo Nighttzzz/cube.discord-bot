@@ -1,0 +1,18 @@
+{
+  "name": "redeunited",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "moment": "2.24.0",
+    "ytdl-core": "2.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "ManowSnoowZ_",
+  "license": "ISC"
+}
